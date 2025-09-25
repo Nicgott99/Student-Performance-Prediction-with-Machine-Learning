@@ -24,7 +24,7 @@ This project analyzes student performance data using various machine learning te
 ---
 
 ## Project 2: Hotel Booking Cancellations Prediction and Analysis
-**File**: `CSE422_Sabaha_Sadik_Final_Project.ipynb`
+**File**: "CSE422 project"
 
 ### Description
 Performed a comprehensive analysis of hotel booking data to predict cancellations using various machine learning models, including Neural Networks, Decision Trees, and Logistic Regression. Conducted data preprocessing, feature engineering, and model evaluation using metrics like accuracy, precision, and recall. Also, applied K-Means clustering and PCA for unsupervised learning insights.
