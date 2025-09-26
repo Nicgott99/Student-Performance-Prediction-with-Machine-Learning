@@ -71,7 +71,7 @@ The project provides insights into:
 - Predictive accuracy for student grade prediction
 
 ## Author
-CSE422 Final Project
+Md Hasib Ullah Khan Alvie
 
 ## Course
 CSE422 - Machine Learning/Data Science
